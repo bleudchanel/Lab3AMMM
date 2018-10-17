@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="false" name="Configuration1" category="opl">
+			<ref name="Test1.mod" type="model">
+			</ref>
+			<ref name="Test1.ops" type="setting">
+			</ref>
+			<ref name="data.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="Configuration2" category="opl">
+			<ref name="TestP2.mod" type="model">
+			</ref>
+			<ref name="TestP2.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="Configuration2c" category="opl">
+			<ref name="TestP2c.mod" type="model">
+			</ref>
+			<ref name="TestP2c.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="Configuration3" category="opl">
+			<ref name="Lab3.mod" type="model">
+			</ref>
+			<ref name="Lab3Data.dat" type="data">
+			</ref>
+		</config>
+		<config default="true" name="ConfigurationP3a" category="opl">
+			<ref name="P3aModel.mod" type="model">
+			</ref>
+			<ref name="P3aData.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
